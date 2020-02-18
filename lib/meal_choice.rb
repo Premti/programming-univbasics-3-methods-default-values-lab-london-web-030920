@@ -1,6 +1,6 @@
 # Your code here
 # For output purposes, use "puts" instead of "print" or "p"
 
-def meal_choice(a, b)
-  puts "A plate of #{protein} with #{a} and #{b}"
+def meal_choice(veg1, veg2, protein)
+  puts "A plate of #{protein} with #{veg1} and #{veg2}"
 end
