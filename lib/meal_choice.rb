@@ -2,7 +2,8 @@
 # For output purposes, use "puts" instead of "print" or "p"
 
 def meal_choice(veg1, veg2, protein)
+  puts "what a nutricious meal."
   if protein = "meat"
-  puts "A plate of #{protein} with #{veg1} and #{veg2}"
+    puts ""
 else puts "what a nutricious meal."
 end
