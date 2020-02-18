@@ -4,6 +4,7 @@
 def meal_choice(veg1, veg2, protein)
   puts "what a nutricious meal."
   if protein = "meat"
-    puts ""
-else puts "what a nutricious meal."
+    puts "#{protein} #{veg1}, #{veg2}"
+else 
+  puts "what a nutricious meal."
 end
